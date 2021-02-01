@@ -34,13 +34,7 @@ div.pic_container {
     width: 100%;
     /* padding: ; */
     position: relative;
-}
-
-img.img_flow {
-    /* border: 1px solid brown; */
-    min-height: 100%;
-    width: 100%;
-    font-size: 0px;
+    height: 40vw;
     /* border: 2px solid red; */
 }
 
@@ -51,9 +45,10 @@ div.pic_container>h1 {
     position: absolute;
     z-index: 1;
     font-family: "F1_bold";
-    top: 15%;
-    left: 5%;
+    bottom: 10%;
     margin: 0;
+    left: 3%;
+    text-shadow: black 0.1em 0.1em 0.2em;
 }
 
 div.pic_container>p {

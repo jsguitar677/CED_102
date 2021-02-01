@@ -50,6 +50,7 @@ div.pic_container>h1 {
     font-family: "F1_bold";
     bottom: 8%;
     left: 2%;
+    text-shadow: black 0.1em 0.1em 0.2em;
 }
 
 div.pic_container>p {
